@@ -1,8 +1,4 @@
-# ft_printf_School21_Ecole42<br>
-<br>
-Code whithout allocation memory.<br>
-<br>
-Actual Status : finished.<br>
-Result : 100%<br>
-<br>
-This is my ft_printf project from the 42 cursus, need help write me.
+# printf
+
+Developed a custom implementation of the standard printf function in C, handling formatted output for multiple data types (integers, strings, pointers, hexadecimals, etc.).
+Implemented parsing of format specifiers, variable arguments handling (va_list), and buffer management — all without relying on the standard library printf.
